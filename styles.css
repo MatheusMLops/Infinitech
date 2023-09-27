@@ -1,0 +1,33 @@
+.container{
+display: grid;
+grid-template-columns: 260px 260px 260px 260px 260px 260px;
+}
+
+body{font-family: monospace;
+    color: white;
+   font-weight: bold;
+   font-size: 25px; 
+}
+
+nav{
+    background-color: rgb(27, 27, 27);
+    height: 30px;
+    width: 100%;
+}
+
+
+.Terraria{
+    grid-row-start: 1;
+    grid-row-end: 1;
+    grid-column-start: 1;
+    grid-column-end: 1;
+    padding: 0 100px;
+}
+
+.Minecraft{
+    grid-row-start: 1;
+    grid-row-end: 1;
+    grid-column-start: 2;
+    grid-column-end: 2;
+    padding: 0 100px;
+}
