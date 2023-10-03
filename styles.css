@@ -1,19 +1,29 @@
 .container{
 display: grid;
+font-size: 20px;
 grid-template-columns: 260px 260px 260px 260px 260px 260px;
 }
 
-body{font-family: monospace;
-    color: white;
+.container2{
+    display: grid;
+    font-size: 20px;
+    grid-template-columns: 260px 260px 260px 260px 260px 260px;
+}
+
+body{
+   font-family: monospace;
+   color: white;
    font-weight: bold;
    font-size: 25px; 
 }
 
 nav{
-    background-color: rgb(27, 27, 27);
-    height: 30px;
+    display: flex;
+    background-color: #25282b;
+    height: 50px;
     width: 100%;
 }
+
 
 
 .Terraria{
