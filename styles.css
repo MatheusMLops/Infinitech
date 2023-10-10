@@ -4,6 +4,7 @@ font-size: 20px;
 grid-template-columns: 260px 260px 260px 260px 260px 260px;
 }
 
+
 .container2{
     display: grid;
     font-size: 20px;
@@ -23,8 +24,6 @@ nav{
     height: 50px;
     width: 100%;
 }
-
-
 
 .Terraria{
     grid-row-start: 1;
