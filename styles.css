@@ -16,6 +16,7 @@ body{
    color: white;
    font-weight: bold;
    font-size: 25px; 
+   position: absolute;
 }
 
 nav{

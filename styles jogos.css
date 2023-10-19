@@ -1,6 +1,8 @@
 body{
+    background-color: #25282b;
     font-family: monospace;
     color: white;
     font-weight: bold;
     font-size: 25px; 
+    position: absolute;
  }
